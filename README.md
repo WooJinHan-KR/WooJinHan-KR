@@ -1,44 +1,39 @@
+
 # Welcome
 
 </div>
 <div align=center>
   <h3> Tech Stack </h3>
-  <br>
-  <br>
+  <img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ROS&logoColor=white" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white" />
+<img src="https://img.shields.io/badge/SLAM-42A5F5?style=flat" />
+<div align="center">
+  <img src="https://img.shields.io/badge/C-EF5C55?style=flat&logo=C&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-37814A?style=flat&logo=Celery&logoColor=white" />
+	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+</div>
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
 
 <div align="center">
     <img src=https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgks970113-woo%2Fhit-counter&count_bg=%2332C6CA&title_bg=%234F83CE&icon=awesomelists.svg&icon_color=%23000000&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)/>
-    <img src=https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white&link=mailto:onerainj@gmail.com)/>
-    <img src=https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logo=Blogger&link=https://velog.io/@gks970113-woo/&logoColor=white)]/>
-</div>
-<br>
-</div>
-<div align=center>
-	<p> Platforms & Languages </p>
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/C-EF5C55?style=flat&logo=C&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-37814A?style=flat&logo=Celery&logoColor=white" />
-  <br>
-	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-	<img src="https://img.shields.io/badge/MySQL-6100A5?style=flat&logo=MySQL&logoColor=white" />
-</div>
+<a href="mailto:onerainj@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white" />
+</a>
+<a href="https://velog.io/@gks970113-woo">
+    <img src="https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logo=Blogger&logoColor=white" />
+</a>
 
 </div>
-<br>
 <div align=center>
 	<p>🛠 Tools 🛠</p>
 </div>
 
 <div align=center>
-	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
+	<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
 	<br>
-	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
-	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
-	<img src="https://img.shields.io/badge/SVN-809CC9?style=flat&logo=Subversion&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 </div>
