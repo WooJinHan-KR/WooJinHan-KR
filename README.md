@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/C-EF5C55?style=flat&logo=C&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-37814A?style=flat&logo=Celery&logoColor=white" />
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-</div>
+</div><br>
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
 
@@ -23,7 +23,7 @@
 </a>
 <a href="https://velog.io/@gks970113-woo">
     <img src="https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logo=Blogger&logoColor=white" />
-</a>
+</a><br>
 
 </div>
 <div align=center>
