@@ -1,9 +1,5 @@
 # Welcome
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeGradient&text=Woojin's%20Github👋🏻&animation=twinkling&fontsize=5&height=150)
-
-#
-
 </div>
 <div align=center>
   <h3> Tech Stack </h3>
