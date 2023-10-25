@@ -21,11 +21,8 @@
 <div align="center">
   <img src="https://img.shields.io/badge/C-EF5C55?style=flat&logo=C&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-37814A?style=flat&logo=Celery&logoColor=white" />
-  <img src="https://img.shields.io/badge/C Sharp-007396?style=flat&logo=C Sharp&logoColor=white" />
   <br>
-  <img src="https://img.shields.io/badge/JavaScript-007396?style=flat&logo=JavaScript&logoColor=white" />
 	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-	<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat&logo=Android&logoColor=white" />
 	<img src="https://img.shields.io/badge/MySQL-6100A5?style=flat&logo=MySQL&logoColor=white" />
 </div>
 
@@ -77,20 +74,3 @@
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gks970113">
 
 <a href="https://opgc.me/#/users/gks970113-woo" target="_blank"><img src="https://api.opgc.me/githubs/users/gks970113-woo/tag/?theme=basic" /></a>
-
-
-
-<!--
-**gks970113-woo/gks970113-woo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
