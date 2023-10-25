@@ -43,19 +43,21 @@
 
 ### Who Am I
 
-- 🥇 I majored in Computer Science & Engineering
+- I want to be a autonomous-driving developer
+- I mainly deal with C++ and Python and participated in many autonomous-driving projects
 - 🚅 My hometown is Seoul in Korea
 
 ### Experience
 
-- 🎓 Hankuk University of global campus, Computer Science & Engineering (2015.03~2023.08)
+- 🎓 Hankuk University of global campus, Computer Science & Engineering (2015.03 ~ 2023.08)
+- 🚗 Programmers DevCourse Planning & Control Trainning Certificated (2023.04 ~ 2023.10)
 
 ### What I Like
 
 - 📺 Movie
 - 🎮 Game
-- ✈️ Travel
-- ☕ Coffee
+- ✈️ Take a drive
+- ☕ Drink some coffee
 
 #
 
