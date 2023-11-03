@@ -50,6 +50,7 @@
 ### Experience
 
 - 🎓 Hankuk University of global campus, Computer Science & Engineering (2015.03 ~ 2023.08)
+- Engineer Information Processing (정보처리기사)
 - 🚗 Programmers DevCourse Planning & Control Trainning Certificated (2023.04 ~ 2023.10)
 
 ### What I Like
