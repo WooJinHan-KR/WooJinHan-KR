@@ -41,19 +41,26 @@
 
 #
 
+### Career
+---
+**2023.12 ~ Present:** [IPG Automotive Korea](https://ipg-automotive.com/en/)
+
 ### Who Am I
+---
 
 - I want to be a autonomous-driving developer
 - I mainly deal with C++ and Python and participated in many autonomous-driving projects
 - 🚅 My hometown is Seoul in Korea
 
 ### Experience
+---
 
 - 🎓 Hankuk University of global campus, Computer Science & Engineering (2015.03 ~ 2023.08)
 - Engineer Information Processing (정보처리기사)
 - 🚗 Programmers DevCourse Planning & Control Trainning Certificated (2023.04 ~ 2023.10)
 
 ### What I Like
+---
 
 - 📺 Movie
 - 🎮 Game
