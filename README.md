@@ -43,7 +43,9 @@
 
 ### Career
 ---
-**2023.12 ~ Present:** [IPG Automotive Korea](https://ipg-automotive.com/en/)
+2023.12		[IPG Automotive Korea](https://ipg-automotive.com/en/)
+~ 
+Present		Carmaker Engineer, Developer
 
 ### Who Am I
 ---
