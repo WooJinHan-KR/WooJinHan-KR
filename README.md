@@ -43,6 +43,8 @@
 
 ### Career
 ---
+![IPG-Automotive-logo-white-lettering](https://github.com/gks970113-woo/gks970113-woo/assets/81940197/47ca535d-fd0b-4f0b-9322-b6732d0dbbcf)
+
 2023.12&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[IPG Automotive Korea](https://ipg-automotive.com/en/)
 <br>~
 <br>
