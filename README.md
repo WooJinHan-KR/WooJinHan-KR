@@ -53,7 +53,6 @@ Present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Engineer
 ### Who Am I
 ---
 
-- I want to be a autonomous-driving developer
 - I mainly deal with C++ and Python and participated in many autonomous-driving projects
 - 🚅 My hometown is Seoul in Korea
 
