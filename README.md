@@ -74,7 +74,7 @@ Present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Engineer
 #
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=WooJinHan_KR&theme=tokyonight&show_icons=true" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WooJinHan-KR&theme=tokyonight&show_icons=true" width="42%" />
 </a>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WooJinHan-KR&exclude_repo=WooJinHan-KR.github.io&layout=compact&theme=tokyonight" width="37.5%" />
