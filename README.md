@@ -77,7 +77,7 @@ Present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Engineer
   <img src="https://github-readme-stats.vercel.app/api?username=WooJinHan_KR&theme=tokyonight&show_icons=true" width="42%" />
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WooJinHan-KR&exclude_repo=gks970113-woo.github.io&layout=compact&theme=tokyonight" width="37.5%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WooJinHan-KR&exclude_repo=WooJinHan-KR.github.io&layout=compact&theme=tokyonight" width="37.5%" />
 </a>
 
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gks970113">
