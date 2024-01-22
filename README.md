@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ROS&logoColor=white" />
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white" />
-<img src="https://img.shields.io/badge/SLAM-42A5F5?style=flat" />
 <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=Mathworks&logoColor=white" />
 <div align="center">
   <img src="https://img.shields.io/badge/C-EF5C55?style=flat&logo=C&logoColor=white" />
