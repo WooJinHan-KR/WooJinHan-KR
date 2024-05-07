@@ -83,4 +83,4 @@ Present&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Engineer
 
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gks970113">
 
-<a href="https://opgc.me/#/users/WooJinHan-KR" target="_blank"><img src="https://api.opgc.me/githubs/users/WooJinHan-KR/tag/?theme=basic" /></a>
+<!--a href="https://opgc.me/#/users/WooJinHan-KR" target="_blank"><img src="https://api.opgc.me/githubs/users/WooJinHan-KR/tag/?theme=basic" /></a-->
