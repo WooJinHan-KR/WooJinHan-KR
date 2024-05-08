@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=OpenCV&logoColor=white" />
 <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=Mathworks&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 <div align="center">
   <img src="https://img.shields.io/badge/C-EF5C55?style=flat&logo=C&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-37814A?style=flat&logo=Celery&logoColor=white" />
